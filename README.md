@@ -1,0 +1,1 @@
+## Projeto Aplicativo utilizando React Native + Expo ##
